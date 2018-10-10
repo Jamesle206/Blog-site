@@ -2,10 +2,21 @@
   text-align: center;
   font-size: 50px;
   color: skyblue;
+  margin-top: 25%;
+  margin-bottom: 25%;
 }
 .aboutme {
   text-align: center;
   font-size: 30px;
   color: green;
   font-style: italic;
+  margin-top: 25%;
+  margin-bottom: 25%;
+}
+.neutral {
+  text-align: center;
+  font-size: 50px;
+  color: skyblue;
+  margin-top: 15%;
+  margin-bottom: 15%;
 }
